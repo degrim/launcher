@@ -1,0 +1,14 @@
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\bin\Debug\AvariceLauncher.exe.config
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\bin\Debug\AvariceLauncher.exe
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\bin\Debug\AvariceLauncher.pdb
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\AvariceLauncher_MarkupCompile.cache
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\AvariceLauncher_MarkupCompile.lref
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\AvariceLauncher.g.resources
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\AvariceLauncher.Properties.Resources.resources
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\Launcher.csproj.GenerateResource.Cache
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\AvariceLauncher.exe
+C:\Users\Draex\Documents\Avarice\Launcher\AvariceLauncher\WpfApplication1\obj\Debug\AvariceLauncher.pdb
